@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BelajarSQLite</string>
+    <string name="masukkan_menu_favorit" />
+    <string name="simpan" />
+    <string name="masukkan_menu_favorite">Masukkan Menu Favorite</string>
+    <string name="simpann">simpan</string>
+    <string name="update">update</string>
+    <string name="hapus">hapus</string>
+</resources>
